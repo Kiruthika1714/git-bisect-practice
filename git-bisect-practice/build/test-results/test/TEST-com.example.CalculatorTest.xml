@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-01T16:59:29.360Z" hostname="LAPTOP-QV3T84O5" time="0.003">
+  <properties/>
+  <testcase name="testAdd" classname="com.example.CalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
